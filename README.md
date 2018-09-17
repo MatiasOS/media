@@ -9,8 +9,8 @@ Winding Tree design elements publicly available for anyone who wants to use our 
 
 Install it as an npm dependency directly from GitHub.
 
-```js
- npm install --save https://github.com/windingtree/media/
+```bash
+$ npm i @windingtree/media
 ```
 
 ## Usage terms
