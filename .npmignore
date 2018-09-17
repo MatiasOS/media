@@ -5,3 +5,4 @@ allFiredEvents
 package-lock.json
 .travis.yml
 styleguide.pdf
+scripts/
